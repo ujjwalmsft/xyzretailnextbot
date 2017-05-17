@@ -24,6 +24,6 @@
   "homepage": "https://github.com/ujjwalmsft/xyzretailnextbot#readme",
   "dependencies": {
     "botbuilder": "^3.8.3",
-    "restify": "^4.3.0",
-  }
+    "restify": "^4.3.0"
+}
 }
