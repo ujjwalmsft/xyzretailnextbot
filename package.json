@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/ujjwalmsft/xyzretailnextbot.git"
   },
-  "engines":{"node": "7.7.4"},
+  "engines":{"node": "6.10.x"},
   "keywords": [
     "Retail",
     "bot"
