@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/ujjwalmsft/xyzretailnextbot.git"
   },
-  "engines":{"node": "6.10.1"},
+  "engines":{"node": "6.10.0"},
   "keywords": [
     "Retail",
     "bot"
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/ujjwalmsft/xyzretailnextbot#readme",
   "dependencies": {
     "botbuilder": "^3.8.3",
-    "restify": "^4.3.0"
-}
+    "restify": "^4.3.0",
+    "mongodb": "^2.2.19"
+  }
 }
