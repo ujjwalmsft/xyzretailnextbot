@@ -4,12 +4,14 @@
   "description": "retail bot",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ujjwalmsft/xyzretailnextbot.git"
   },
+  "engines":{"node": "6.10.1"},
   "keywords": [
     "Retail",
     "bot"
@@ -22,6 +24,6 @@
   "homepage": "https://github.com/ujjwalmsft/xyzretailnextbot#readme",
   "dependencies": {
     "botbuilder": "^3.8.3",
-    "restify": "^4.3.0"
+    "restify": "^4.3.0",
   }
 }
