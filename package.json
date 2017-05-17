@@ -1,0 +1,27 @@
+{
+  "name": "xyzretailnextbot",
+  "version": "1.0.0",
+  "description": "retail bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujjwalmsft/xyzretailnextbot.git"
+  },
+  "keywords": [
+    "Retail",
+    "bot"
+  ],
+  "author": "Ujjwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujjwalmsft/xyzretailnextbot/issues"
+  },
+  "homepage": "https://github.com/ujjwalmsft/xyzretailnextbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.3",
+    "restify": "^4.3.0"
+  }
+}
